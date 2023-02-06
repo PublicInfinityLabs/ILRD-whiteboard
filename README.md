@@ -2,8 +2,11 @@
 
 ### Run The Server 
 * git clone this repo https://github.com/PublicInfinityLabs/ILRD-whiteboard.git
-* Run
+* without docker: Run
 ``` bash
 $ npm i 
 $ npm run start
 ``` 
+* With docker: Run
+```bash
+$ docker-compose up
